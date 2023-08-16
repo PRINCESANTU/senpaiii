@@ -1,0 +1,96 @@
+#navbar{
+    background-color: rgba(247, 242, 242, 0.991);
+    text-align: start;
+    
+    text-align:left;
+}
+
+
+head{
+    text-align: center;
+}
+
+.myself-img{
+    border-radius: 50%;
+}
+#myself{
+    padding: 60px;
+    border-radius: 50%;
+}
+
+
+   
+    
+
+h1{
+    text-shadow: 2px 2px 8px #fc0c0c;
+}
+h2{
+    text-align: start;
+    text-shadow: 2px 2px 8px #ee0707;
+}
+
+h3{
+    text-align: start;
+}
+
+body{
+    color: rgb(2, 1, 18);
+   
+    background-color: rgb(41, 3, 76);
+    
+}
+button{
+    background-color: #191970;
+    color: beige;
+    padding: 5px 12px;
+    font-size: small;
+    outline-style: auto;
+    border-radius: 12px;
+    #pic{
+        border-radius: 8px;
+            padding: 90px 16px;
+    } 
+}
+
+
+  h1{
+    font-family: algerian;
+  }
+ #box{
+    display: inline;
+    padding: 40px 40px;
+    border-radius: 10%;
+    background-color: rgb(107, 244, 247);
+    margin: 10px;
+    outline: auto;
+    color: black;
+    
+    
+ }
+ 
+#collection{
+    text-align: start;
+    outline: auto;
+    background-color:  rgb(202, 219, 89);
+    color: black;
+}
+#side{
+    text-align: start;
+    outline: auto;
+    background-color: rgb(247, 251, 250);
+    color: rgb(232, 3, 186);
+}
+ 
+.img-soham{
+    padding-top:500px;
+    padding:100px ;
+}
+#game{
+    outline: auto;
+    background-color: aqua;
+    
+    
+}
+
+
